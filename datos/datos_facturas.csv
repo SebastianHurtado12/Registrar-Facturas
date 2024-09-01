@@ -1,0 +1,21 @@
+nro_cliente,centro_costos,porc,cuenta_contable,servicio,empresa,ruta_factura_drive
+7/0005305162,Suc_Ros,100,4.4.010.20.105,Internet,Claro,Claro/Expreso Malargue/Sucursal Rosario
+7/0005000625,TDU Santos Lugares,100,4.4.010.20.105,Internet,Claro,Claro/TDU/Santos Lugares
+7/0005303753,Garmendia,100,4.4.010.20.105,Internet,Claro,Claro/Codylsa/Internet
+4484,Suc_Ros,100,4.4.010.20.105,Internet,Amecom,Amecom/Sucursal Rosario
+210270,TDU Santos Lugares,100,4.4.010.20.105,Internet,Skycorp,Skycorp/TDU
+219950,CCUDyAZA,100,4.4.010.20.105,Internet,Skycorp,Skycorp/Codylsa
+2/1459070742,Garmendia,100,4.4.010.20.106,Telefonia Movil,Claro,Claro/Codylsa/Telefonía
+2/0133560292,Suc_CTC|Suc_Rea|Suc_Sra|Suc_Ros|Suc_Gal|Suc_Men|Suc_Slu|Suc_mal,17|4|42|5|3|24|4|1,4.4.010.20.106,Telefonia Movil,Claro,Claro/Expreso Malargue
+78608450,Cli_Spot|Papelera|Unilever|CCUDyAZA|CCU Mendoza|CENCO Mendoza|CIMSA,14|7|6|18|36|5|14,4.4.010.20.106,Telefonia Movil,Movistar,Movistar/Dylasa/78608450
+89917428,CCUDyAZA|Unilever|Papelera|Jumbo MZA|CCU MZA|Chascomus|CIMSA,55.00|3.00|2.00|12.00|6.00|20.00|2.00,4.4.010.20.106,Telefonia Movil,Movistar,Movistar/Codylsa/Telefonia/89917428
+40778736,Royal|Papelera|Unilever|Alicorp|Proctel|CCUDyAZA|CIMSA,7|10|10|6|2|50|15,4.4.010.20.106,Telefonia Movil,Movistar,Movistar/Codylsa/Telefonia/40778736
+37464721,TDU Santos Lugares,100,4.4.010.20.106,Telefonia Movil,Movistar,Movistar/TDU/Telefonia
+AR202539-109692,Expreso Malargue,100,4.4.010.20.103,Telefonia Fija,Convergia,Convergia
+155649,TDU Pacheco|TDU T3|TDU Santos Lugares,5.4|2.5|92.1,4.4.010.20.202,G Suite – TDU,iPlan,Iplan/TDU
+158507,Ada_ Mendoza|Danone Mza|Jumbo Mendoza|Ada_mino,50|12.5|25|12.5,4.4.010.20.202,G Suite – Dylasa,iPlan,Iplan/Dylasa
+176596,Garmendia|Dylasa|Ada_Mino|Ada_Smk|Suc_CTC,75|14|4.7|4.7|1.6,4.4.010.20.202,G Suite – Codylsa,iPlan,Iplan/Codylsa
+466682,Cimsa,100,4.4.010.20.202,G Suite – Cimsa,iPlan,Iplan/Cimsa
+158770,Suc_CTC|Suc_Rea|Suc_Sra|Suc_Ros|Suc_Gal|Suc_Men|Suc_Slu|Suc_mal,21.35|8.65|19.55|8.65|6.85|19.55|6.85|8.55,4.4.010.20.202,G Suite – Expreso Malargue,Iplan,Iplan/Expreso Malargue
+6604,TDU Pacheco,100,4.4.010.20.105,Internet,Cotelcam,Cotelcam
+9130124007301001,Garmendia,100,4.4.010.20.103,Telefonia Fija,Telecom,Telecom/Codylsa/Garmendia
